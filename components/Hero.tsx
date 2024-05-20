@@ -33,7 +33,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
-          <p className="text-center text-sm md:text-lg lg:text-2xl">
+          <p className="text-center mb-6 text-sm md:text-lg lg:text-2xl">
             Hi! I’m Adrian, a Next.js Developer based in Croatia.
           </p>
 
